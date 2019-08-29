@@ -1,1 +1,1 @@
-# vscode_attach_pid
+# vscode_debug_go
